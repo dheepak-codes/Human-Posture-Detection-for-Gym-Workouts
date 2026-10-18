@@ -1,0 +1,6 @@
+{
+  "name": "AI Gym Posture Detection & Workout Coach",
+  "description": "An AI-powered web application that analyzes exercise form using real-time human pose detection and provides workout feedback.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
