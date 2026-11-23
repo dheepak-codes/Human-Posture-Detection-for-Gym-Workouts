@@ -71,7 +71,7 @@ PORT=3000
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your web browser. Grant webcam access when prompted.
+Open https://whimsical-flan-35b83c.netlify.app/
 
 ---
 
